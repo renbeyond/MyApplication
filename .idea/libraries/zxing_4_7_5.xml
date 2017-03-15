@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="zxing-4.7.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/zxing-4.7.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
